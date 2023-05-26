@@ -157,6 +157,12 @@ img {
     min-height: 100%;
 }
 
+.nav-main {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
 /*Carrusel de imágenes*/
 .carousel {
     position: relative;
