@@ -149,11 +149,6 @@ header {
     height: auto;
 }
 
-.img-pres {
-    position: relative;
-    height: 150px;
-}
-
 img {
     display: block;
     object-fit: cover;
@@ -350,11 +345,6 @@ footer {
 
     .vista {
         opacity: 0;
-    }
-
-    .nav-main {
-        flex-wrap: wrap;
-        justify-content: center;
     }
 
     .nav-links ul li {
