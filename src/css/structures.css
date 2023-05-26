@@ -352,6 +352,11 @@ footer {
     .vista {
         opacity: 0;
     }
+    
+    .nav-main {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
 
     .nav-links ul li {
         padding: 0 1rem;
